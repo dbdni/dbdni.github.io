@@ -34,6 +34,14 @@
   photo: panos.jpg
   web: https://panos.cs.pitt.edu/
   info: "Panos is a Professor of Computer Science at the University of Pittsburgh. <i>Until 2024</i> he led the <b>MEDIA</b> action at DEI in DB"
+- name: Tania Cerquitelli (she/her)
+  photo: tania.jpg
+  web: https://www.polito.it/en/staff?p=tania.cerquitelli
+  info: "Tania is a Professor of Computer Science at the Politecnico di Torino. <i>Since 2025</i> she leads the <b>DBIASING</b> action at DEI in DB"
+- name: Matteo Berta (he/him)
+  photo: matteo.jpg
+  web: https://www.polito.it/en/staff?p=matteo.berta
+  info: "Matteo is a Collaborator of DAUIN department at the Politecnico di Torino. <i>Since 2025</i> he contributed to the <b>DBIASING</b> action at DEI in DB"
 - name: Juliana Freire (she/her)
   photo: juliana.jpg
   web: https://vgc.engineering.nyu.edu/~juliana
