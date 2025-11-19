@@ -30,6 +30,14 @@
   photo: donatella.jpg
   web: https://sites.google.com/uniroma1.it/donatellafirmani
   info: "DEI chair for <b>SIGMOD 2025</b>"
+- name: Olga Papaemmanouil
+  photo: olga.jpg
+  web: https://scholarworks.brandeis.edu/esploro/profile/olga_papaemmanouil/overview
+  info: "DEI chair for <b>VLDB 2025</b>"
+- name: Panagiota (Youla) Fatourou
+  photo: youla.jpg
+  web: https://users.ics.forth.gr/~faturu/
+  info: "DEI chair for <b>ADBIS 2025</b>"
 - name: Stratos Idreos
   photo: stratos.png
   web: https://stratos.seas.harvard.edu
