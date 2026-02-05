@@ -7,21 +7,33 @@
   web: https://sites.google.com/view/meihui/home
   info: "Community co-chair <b>CIDR 2026</b>, DEI Co-Chair <b>EDBT 2026</b>"
 - name: Sujaya Maiyya
-  photo: sujaya.jpg
+  photo: sujaya.png
   web: https://cs.uwaterloo.ca/~smaiyya/
   info: "DEI co-chair <b>VLDB 2026</b>"
 - name: Brit Youngmann
   photo: brit.jpg
   web: https://brity.cswp.cs.technion.ac.il
   info: "DEI co-chair <b>VLDB 2026</b>"
-- name: Pınar Tözün
-  photo: pinar.jpg
-  web: https://www.pinartozun.com
-  info: "DEI co-chair for <b>CIDR 2024</b>,  <b>ICDE 2024</b>, <b>CIDR 2025</b>"
 - name: Eleni Tzirita Zacharatou
   photo: eleni.jpeg
   web: https://heltzi.github.io
   info: "DEI co-chair for <b>EDBT/ICDT 2025-2026</b>"
+- name: Genoveva Vargas Solar
+  photo: genoveva.jpg
+  web: http://vargas-solar.com/
+  info: "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>ADBIS 2023-25</b>, <b>AMW 2024</b> <b>DEBS 2025-26</b>"
+- name: Barbara Catania
+  photo: barbara.jpg
+  web: http://www.odbms.org/about/contributors/catania/
+  info: "DEI co-chair for <b>ADBIS 2023-24, 2026</b>"
+- name: Cécile Favre
+  photo: cecile.jpg
+  web: https://eric.univ-lyon2.fr/cfavre/
+  info: "DEI co-chair for <b>ADBIS 2026</b>"  
+- name: Pınar Tözün
+  photo: pinar.jpg
+  web: https://www.pinartozun.com
+  info: "DEI co-chair for <b>CIDR 2024</b>,  <b>ICDE 2024</b>, <b>CIDR 2025</b>"
 - name: Rachel Pottinger
   photo: rachel.jpg
   web: https://www.cs.ubc.ca/~rap/
@@ -90,10 +102,6 @@
   photo: jesus.png
   web: https://jesus.camachorodriguez.name
   info: "DEI co-chair for <b>SIGMOD 2024</b>"
-- name: Genoveva Vargas Solar
-  photo: genoveva.jpg
-  web: http://vargas-solar.com/
-  info: "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>ADBIS 2023-25</b>, <b>AMW 2024</b> <b>DEBS 2025-26</b>"
 - name: Vana Kalogeraki
   photo: vana.jpg
   web: http://www2.cs.aueb.gr/~vana/
@@ -118,10 +126,6 @@
   photo: yael.jpg
   web: https://u.cs.biu.ac.il/~amstery/
   info: "DEI Co-Chair for <b>SIGMOD 2023</b>"
-- name: Barbara Catania
-  photo: barbara.jpg
-  web: http://www.odbms.org/about/contributors/catania/
-  info: "DEI Co-Chair for <b>ADBIS 2023-24, 2026</b>"
 - name: Panos K. Chrysanthis
   photo: panos.jpg
   web: https://panos.cs.pitt.edu/
